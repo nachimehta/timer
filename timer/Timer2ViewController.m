@@ -4,7 +4,7 @@
 //
 //  Created by Matthew Miller on 10/1/12.
 //  Copyright (c) 2012 Treehousecs.jamesmatt. All rights reserved.
-//  AND NACHI!!!!!
+//  NACHI ERASED
 
 #import "Timer2ViewController.h"
 #import "TimerAppDelegate.h"
